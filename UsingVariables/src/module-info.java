@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author hvapa
- *
- */
-module UsingVariables {
-}
